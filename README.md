@@ -1,1 +1,3 @@
 # Analysing-Factors-Influencing-Life-Insurance-Purchases
+
+This report aims to identify the right set of factors including customer characteristics and social and economic indicators and find the best approach and model to classify and predict whether a new customer will buy the life insurance product using classification models like KNN Classifier, Decision Tree Classifier and Gaussian Nayes Bayes. It closely examines the methodology and later focuses on the results and findings and concludes with a discussion on the empirical research needed to practise adequate HR analytics to improve organisational performance.
